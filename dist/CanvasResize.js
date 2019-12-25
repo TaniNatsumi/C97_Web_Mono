@@ -1,5 +1,5 @@
   // リサイズ処理
-function glResize(){
+/*function glResize(){
     var glCanvas1 = document.getElementById('SAMPLE');
     var container = document.getElementById('wrap');
 
@@ -18,3 +18,4 @@ function glResize(){
     gl.viewport(0,0,glCanvas1.width, glCanvas1.height);
 }
 glResize();
+*/

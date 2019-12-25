@@ -1,10 +1,10 @@
+/*
 #SAMPLE {
   display: block;
 }
 #wrap {
   position: absolute;
 }
-/*
 @media screen and (max-width:767px){
   //画面幅が767pxまでの時
   #wrap {

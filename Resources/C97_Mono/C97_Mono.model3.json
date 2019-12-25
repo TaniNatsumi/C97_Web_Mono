@@ -12,11 +12,6 @@
 			"Target": "Parameter",
 			"Name": "EyeBlink",
 			"Ids": []
-		},
-		{
-			"Target": "Parameter",
-			"Name": "LipSync",
-			"Ids": []
 		}
 	]
 }

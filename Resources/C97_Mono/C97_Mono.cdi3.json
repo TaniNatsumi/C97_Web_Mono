@@ -325,86 +325,6 @@
 			"Id": "Param_Angle_Rotation_7_ArtMesh20",
 			"GroupId": "ParamGroup4",
 			"Name": "[6]頭リボンL"
-		},
-		{
-			"Id": "ParamPixel1",
-			"GroupId": "ParamGroup5",
-			"Name": "ピクセル1"
-		},
-		{
-			"Id": "ParamPixel2",
-			"GroupId": "ParamGroup5",
-			"Name": "ピクセル2"
-		},
-		{
-			"Id": "ParamEffectLight1",
-			"GroupId": "ParamGroup5",
-			"Name": "発光エフェクト1"
-		},
-		{
-			"Id": "ParamEffectLight2",
-			"GroupId": "ParamGroup5",
-			"Name": "発光エフェクト2"
-		},
-		{
-			"Id": "ParamEffectLightRotate",
-			"GroupId": "ParamGroup5",
-			"Name": "発光エフェクト3回転"
-		},
-		{
-			"Id": "ParamEffectLight3_1",
-			"GroupId": "ParamGroup5",
-			"Name": "発光エフェクト3-1"
-		},
-		{
-			"Id": "ParamEffectLight3_2",
-			"GroupId": "ParamGroup5",
-			"Name": "発光エフェクト3-2"
-		},
-		{
-			"Id": "ParamEffectLight3_3",
-			"GroupId": "ParamGroup5",
-			"Name": "発光エフェクト3-3"
-		},
-		{
-			"Id": "ParamEffectLight3_4",
-			"GroupId": "ParamGroup5",
-			"Name": "発光エフェクト3-4"
-		},
-		{
-			"Id": "ParamEffectLight3_5",
-			"GroupId": "ParamGroup5",
-			"Name": "発光エフェクト3-5"
-		},
-		{
-			"Id": "ParamEffectLight3_6",
-			"GroupId": "ParamGroup5",
-			"Name": "発光エフェクト3-6"
-		},
-		{
-			"Id": "ParamEffectLight3_7",
-			"GroupId": "ParamGroup5",
-			"Name": "発光エフェクト3-7"
-		},
-		{
-			"Id": "ParamEffectLight3_8",
-			"GroupId": "ParamGroup5",
-			"Name": "発光エフェクト3-8"
-		},
-		{
-			"Id": "ParamBaseX",
-			"GroupId": "ParamGroup5",
-			"Name": "全体の左右"
-		},
-		{
-			"Id": "ParamBaseY",
-			"GroupId": "ParamGroup5",
-			"Name": "全体の上下"
-		},
-		{
-			"Id": "ParamBaseScale",
-			"GroupId": "ParamGroup5",
-			"Name": "全体の拡縮"
 		}
 	],
 	"ParameterGroups": [
@@ -452,29 +372,12 @@
 			"Id": "ParamGroup4",
 			"GroupId": "",
 			"Name": "頭リボンL"
-		},
-		{
-			"Id": "ParamGroup5",
-			"GroupId": "",
-			"Name": "エフェクト"
 		}
 	],
 	"Parts": [
 		{
-			"Id": "Part33",
-			"Name": "logo_marker.png"
-		},
-		{
 			"Id": "Part",
 			"Name": "*物述有栖"
-		},
-		{
-			"Id": "Part34",
-			"Name": "*発光エフェクト"
-		},
-		{
-			"Id": "Part44",
-			"Name": "ピクセル効果"
 		},
 		{
 			"Id": "PartCore",
@@ -499,14 +402,6 @@
 		{
 			"Id": "Part23",
 			"Name": "*頭リボン_後ろ"
-		},
-		{
-			"Id": "Part35",
-			"Name": "発光エフェクト3"
-		},
-		{
-			"Id": "Part29",
-			"Name": "効果ピクセル"
 		},
 		{
 			"Id": "Part4",
@@ -555,50 +450,6 @@
 		{
 			"Id": "Part21",
 			"Name": "*肩フリル"
-		},
-		{
-			"Id": "Part43",
-			"Name": "発光エフェクト3-8"
-		},
-		{
-			"Id": "Part42",
-			"Name": "発光エフェクト3-7"
-		},
-		{
-			"Id": "Part41",
-			"Name": "発光エフェクト3-6"
-		},
-		{
-			"Id": "Part40",
-			"Name": "発光エフェクト3-5"
-		},
-		{
-			"Id": "Part39",
-			"Name": "発光エフェクト3-4"
-		},
-		{
-			"Id": "Part38",
-			"Name": "発光エフェクト3-3"
-		},
-		{
-			"Id": "Part37",
-			"Name": "発光エフェクト3-2"
-		},
-		{
-			"Id": "Part36",
-			"Name": "発光エフェクト3-1"
-		},
-		{
-			"Id": "Part32",
-			"Name": "効果ピクセル根本"
-		},
-		{
-			"Id": "Part30",
-			"Name": "効果ピクセル"
-		},
-		{
-			"Id": "Part31",
-			"Name": "効果ピクセル背後"
 		},
 		{
 			"Id": "Part6",
