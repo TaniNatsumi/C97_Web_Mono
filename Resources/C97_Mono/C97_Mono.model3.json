@@ -5,11 +5,12 @@
 		"Textures": [
 			"C97_Mono.2048/texture_00.png"
 		],
+		"Pose": "C97_mono.pose3.json",
 		"DisplayInfo": "C97_Mono.cdi3.json",
 		"Motions": {
 			"Idle": [
 				{
-					"File": "motions/C97_Mono1.motion3.json"
+					"File": "motions/C97_Mono2.motion3.json"
 				}
 			]
 		}
